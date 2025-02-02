@@ -1,5 +1,3 @@
-create page login xy
 create dashboard
+create page login xy
 create page home
-create page home
-
