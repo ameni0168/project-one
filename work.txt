@@ -1,4 +1,7 @@
 create dashboard
 create page login xy
+<<<<<<< HEAD
 create page home
 create page forget password 
+=======
+>>>>>>> 3ae6cb87fadb197deee9e456d694b7f023aed185
